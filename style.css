@@ -1,0 +1,60 @@
+caption {
+    font-size: large;
+    font-weight: bolder;
+    border-style: dashed;
+    border-radius: 20px / 10px;
+    border-width: thick;
+    border-color: moccasin;
+    background-color: palevioletred;
+    width: 10cm;
+    margin: auto;
+    box-shadow: 1px 1px thistle;
+    height: 30px;
+    text-align: center;
+
+}
+
+body {
+    background-image: url(af8d63a477078732b79ff9d9fc60873f.jpg);
+}
+
+table {
+    border-radius: 5px / 20px;
+    table-layout: fixed;
+    float: right; 
+    text-align: center;
+    border-spacing: 0.2cm;
+    empty-cells: hide;
+}
+
+td {
+    border-color: orangered;
+    border-spacing: 2em;
+    background-color: tomato;
+    box-shadow:3px 3px rgb(153, 57, 39);
+    border-radius: 10px;
+}
+
+.jobb {
+    background-color: thistle;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+}
+
+th {
+    background-color: orangered;
+    border-radius: 0 10px 10px 10px / 0 10px 10px 10px;
+}
+
+.sec th{
+    background-color: rebeccapurple;
+    color: wheat;
+}
+
+ol {
+    list-style-type: upper-roman;
+    list-style-position: outside;
+    color: beige;
+    text-align: center;
+}
